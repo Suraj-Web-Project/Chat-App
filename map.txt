@@ -1,0 +1,7 @@
+For sending email we use "resend.com" website .
+For upload image we use "Cloudinary".
+For Rate Limiting we use "Arcjet" .  (429)- for too many request.
+Daisyui For styling purpose.
+use react-hot-toast for toast message.
+use zustand for loading spinner.
+lucide-react for icons.
